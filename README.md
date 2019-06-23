@@ -10,7 +10,7 @@ Simply use Z/S (AZERTY keyboards) // W/S (QWERTY keyboards) to go up/down.
 ## Built With
 
 * [LÖVE2D](https://love2d.org/) or [It's source code](https://bitbucket.org/rude/love/src/default/) - The game sdk used, please check them out !
-* [Push] (https://github.com/Ulydev/push) For a more retro-y look
+* [Push](https://github.com/Ulydev/push) For a more retro-y look
 
 ## Authors
 
