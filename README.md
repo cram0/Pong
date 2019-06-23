@@ -4,7 +4,9 @@ Original Pong game made in Lua with LÖVE2D
 
 ## Getting Started
 
-Simply use Z/S (AZERTY keyboards) // W/S (QWERTY keyboards) to go up/down.
+Simply use 
+
+Z/S (AZERTY keyboards) or W/S (QWERTY keyboards) to go up/down
 
 
 ## Built With
