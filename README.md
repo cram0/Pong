@@ -1,6 +1,6 @@
 # Pong
 
-Original Pong game made with LÖVE2D
+Original Pong game made in Lua with LÖVE2D
 
 ## Getting Started
 
@@ -9,7 +9,7 @@ Simply use Z/S (AZERTY keyboards) // W/S (QWERTY keyboards) to go up/down.
 
 ## Built With
 
-* [LÖVE2D](https://love2d.org/) or (https://bitbucket.org/rude/love/src/default/) - The game sdk used, please check them out !
+* [LÖVE2D](https://love2d.org/) or [It's source code](https://bitbucket.org/rude/love/src/default/) - The game sdk used, please check them out !
 
 ## Authors
 
