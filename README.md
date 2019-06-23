@@ -21,4 +21,4 @@ Z/S (AZERTY keyboards) or W/S (QWERTY keyboards) to go up/down
 
 ## Acknowledgments
 
-Coding in Lua was a first time for me, also thanks to the wonderful CS50 courses which are amazing -> [CS50] (https://cs50.harvard.edu/college/2019/fall/)
+Coding in Lua was a first time for me, also thanks to the wonderful CS50 courses which are amazing -> [CS50](https://cs50.harvard.edu/college/2019/fall/)
